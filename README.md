@@ -1,1 +1,1 @@
-# Machine Learning and Deep Learning Algorithms
+# Machine Learning Algorithms
